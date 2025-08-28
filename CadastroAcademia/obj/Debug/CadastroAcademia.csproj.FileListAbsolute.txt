@@ -1,0 +1,14 @@
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\bin\Debug\CadastroAcademia.exe.config
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\bin\Debug\CadastroAcademia.exe
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\bin\Debug\CadastroAcademia.pdb
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.csproj.AssemblyReference.cache
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.TelaInicial.resources
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.Properties.Resources.resources
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.csproj.GenerateResource.cache
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.csproj.CoreCompileInputs.cache
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.exe
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.pdb
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.Cadastro.resources
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.Registros.resources
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.Alterar.resources
+E:\Cursos\Udemy\C#\Lógica de programação\CadastroAcademia\CadastroAcademia\obj\Debug\CadastroAcademia.FichaAluno.resources

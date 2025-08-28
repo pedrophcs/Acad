@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\telainicial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\cadastro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|e:\\cursos\\udemy\\c#\\l\u00F3gica de programa\u00E7\u00E3o\\cadastroacademia\\cadastroacademia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\fichaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\fichaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\cadastroacademia\\registros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B80DEA-6BEA-4D00-AB91-7E23BA67E3F6}|CadastroAcademia\\CadastroAcademia.csproj|solutionrelative:cadastroacademia\\registros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\App.config",
+              "RelativeDocumentMoniker": "CadastroAcademia\\App.config",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\App.config",
+              "RelativeToolTip": "CadastroAcademia\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-21T23:37:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Conexao.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Conexao.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Conexao.cs",
+              "RelativeToolTip": "CadastroAcademia\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T21:02:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaInicial.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\TelaInicial.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.cs",
+              "RelativeToolTip": "CadastroAcademia\\TelaInicial.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T17:29:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaInicial.cs [Design]",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\TelaInicial.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.cs [Design]",
+              "RelativeToolTip": "CadastroAcademia\\TelaInicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T21:50:38.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaInicial.Designer.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\TelaInicial.Designer.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\TelaInicial.Designer.cs",
+              "RelativeToolTip": "CadastroAcademia\\TelaInicial.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:13:15.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registros.cs [Design]",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Registros.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.cs [Design]",
+              "RelativeToolTip": "CadastroAcademia\\Registros.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:25:00.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registros.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Registros.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.cs",
+              "RelativeToolTip": "CadastroAcademia\\Registros.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAmwD8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:15:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registros.Designer.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Registros.Designer.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Registros.Designer.cs",
+              "RelativeToolTip": "CadastroAcademia\\Registros.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T21:11:46.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cadastro.Designer.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.Designer.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Cadastro.Designer.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.Designer.cs",
+              "RelativeToolTip": "CadastroAcademia\\Cadastro.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAawFQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T23:24:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastro.cs [Design]",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Cadastro.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.cs [Design]",
+              "RelativeToolTip": "CadastroAcademia\\Cadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:26:43.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Alterar.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Alterar.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Alterar.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Alterar.cs",
+              "RelativeToolTip": "CadastroAcademia\\Alterar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:10:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alterar.cs [Design]",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Alterar.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Alterar.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Alterar.cs [Design]",
+              "RelativeToolTip": "CadastroAcademia\\Alterar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:30:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FichaAluno.cs [Design]",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\FichaAluno.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\FichaAluno.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\FichaAluno.cs [Design]",
+              "RelativeToolTip": "CadastroAcademia\\FichaAluno.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:56:49.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.cs",
+              "RelativeDocumentMoniker": "CadastroAcademia\\Cadastro.cs",
+              "ToolTip": "E:\\Cursos\\Udemy\\C#\\L\u00F3gica de programa\u00E7\u00E3o\\CadastroAcademia\\CadastroAcademia\\Cadastro.cs",
+              "RelativeToolTip": "CadastroAcademia\\Cadastro.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T22:19:41.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
